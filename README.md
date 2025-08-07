@@ -31,5 +31,5 @@ Scarica l'ultima versione qui:
 Questo software è rilasciato sotto **Creative Commons Attribuzione-NonCommerciale 4.0 Internazionale (CC BY-NC 4.0)**.  
 Puoi copiarlo, modificarlo e condividerlo **solo per scopi non commerciali**, fornendo attribuzione all'autore.  
 
-Consulta il file [`LICENSE.txt`](LICENSE.txt) per ulteriori dettagli  
+Consulta il file [`LICENSE`](LICENSE) per ulteriori dettagli  
 oppure visita: [https://creativecommons.org/licenses/by-nc/4.0/deed.it](https://creativecommons.org/licenses/by-nc/4.0/deed.it)
