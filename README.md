@@ -13,7 +13,7 @@ Questo programma funziona **soltanto** con gli algoritmi e sistemi **che usano i
 
 ## 📚 Guida rapida
 Per decodificare il credito:
-1. Leggi la memoria completa dell’iButton con un lettore supportante DS1971 o Flipper Zero.
+1. Leggi la memoria completa dell’iButton con un lettore supportante DS1971 o con un Flipper Zero.
 2. Serviranno solo **i primi 4 byte** (formato esadecimale) della prima riga di memoria.  
    Esempio: `AA BB CC DD`
 3. Inseriscili nel programma e avvia la decodifica.
