@@ -4,7 +4,7 @@
 Permette anche la conversione inversa per generare i byte corrispondenti a un importo in euro.
 
 ## ⚠️ ATTENZIONE!
-Questo programma funziona **soltanto** con gli algoritmi e sistemi **che usano il credito nei 4 byte della prima riga**.
+Questo programma funziona **soltanto** con gli algoritmi e sistemi **che usano il credito in euro nei 4 byte della prima riga**.
 
 ## ✨ Funzioni principali
 - Lettura e decodifica immediata del credito memorizzato
