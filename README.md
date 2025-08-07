@@ -10,7 +10,6 @@ Questo programma funziona **soltanto** con gli algoritmi e sistemi **che usano i
 - Lettura e decodifica immediata del credito memorizzato
 - Conversione inversa (da importo in € a bytes)
 - Interfaccia semplice e intuitiva
-- Supporto per formato esadecimale
 
 ## 📚 Guida rapida
 Per decodificare il credito:
