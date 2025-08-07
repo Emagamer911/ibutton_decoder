@@ -23,8 +23,8 @@ Per la conversione inversa:
 
 ## 📥 Download
 Scarica l'ultima versione qui:  
-[ Windows (.exe)](https://github.com/Emagamer911/ibutton_decoder/releases/latest/download/ibutton_decoder.exe)  
-[ macOS (.dmg)](https://github.com/Emagamer911/ibutton_decoder/releases/latest/download/ibutton_decoder.dmg)
+[ Windows (.exe)](https://github.com/Emagamer911/ibutton_decoder/releases/tag/Windows)  
+[ macOS (.dmg)](https://github.com/Emagamer911/ibutton_decoder/releases/tag/macOS)
 
 ## 📄 Licenza
 Questo software è rilasciato sotto **Creative Commons Attribuzione-NonCommerciale 4.0 Internazionale (CC BY-NC 4.0)**.  
