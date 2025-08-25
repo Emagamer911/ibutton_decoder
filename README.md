@@ -27,11 +27,11 @@ Per la conversione inversa:
 
 ## 📥 Download
 Scarica l'ultima versione nella sezione Releases di questa Repository!
-[https://creativecommons.org/licenses/by-nc/4.0/deed.it](https://creativecommons.org/licenses/by-nc/4.0/deed.it)
+
 
 ## 📄 Licenza
 Questo software è rilasciato sotto **Creative Commons Attribuzione-NonCommerciale 4.0 Internazionale (CC BY-NC 4.0)**.  
 Puoi copiarlo, modificarlo e condividerlo **solo per scopi non commerciali**, fornendo attribuzione all'autore.  
-
+[Ultima RELEASE](https://github.com/Emagamer911/ibutton_decoder/releases/tag/1.0)
 Consulta il file [`LICENSE`](LICENSE) per ulteriori dettagli  
 oppure visita: [https://creativecommons.org/licenses/by-nc/4.0/deed.it](https://creativecommons.org/licenses/by-nc/4.0/deed.it)
