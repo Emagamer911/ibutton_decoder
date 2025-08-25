@@ -26,10 +26,8 @@ Per la conversione inversa:
 - Inserisci l'importo in euro e il programma mostrerà i 4 byte corrispondenti.
 
 ## 📥 Download
-Scarica l'ultima versione qui:  
-[ Windows (.exe)](https://github.com/Emagamer911/ibutton_decoder/releases/tag/Windows)  
-[ macOS (.dmg)](https://github.com/Emagamer911/ibutton_decoder/releases/tag/macOS)
-[ Flipper Zero (.fap)](https://github.com/Emagamer911/ibutton_decoder/releases/tag/Flipper)
+Scarica l'ultima versione nella sezione Releases di questa Repository!
+[https://creativecommons.org/licenses/by-nc/4.0/deed.it](https://creativecommons.org/licenses/by-nc/4.0/deed.it)
 
 ## 📄 Licenza
 Questo software è rilasciato sotto **Creative Commons Attribuzione-NonCommerciale 4.0 Internazionale (CC BY-NC 4.0)**.  
