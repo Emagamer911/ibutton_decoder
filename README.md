@@ -9,6 +9,10 @@ Questo programma funziona **soltanto** con gli algoritmi e sistemi **che usano i
 ## ✨ Funzioni principali
 - Lettura e decodifica immediata del credito memorizzato
 - Conversione inversa (da importo in € a bytes)
+- Copia il risultato dal Popup!(Solo per Windows e MacOS)
+- Extra: Funzionalità Extra solo sul Flipper Zero:
+  - Decodifica File: Legge il file iButton (.ibtn) selezionato e decodifica il valore in euro.
+  - Modifica File: Permette di scegliere un file da modificare, il credito voluto, e l'app modificherà il file con il credito in euro scelto!
 - Interfaccia semplice e intuitiva
 
 ## 📚 Guida rapida
@@ -25,6 +29,7 @@ Per la conversione inversa:
 Scarica l'ultima versione qui:  
 [ Windows (.exe)](https://github.com/Emagamer911/ibutton_decoder/releases/tag/Windows)  
 [ macOS (.dmg)](https://github.com/Emagamer911/ibutton_decoder/releases/tag/macOS)
+[ Flipper Zero (.fap)](https://github.com/Emagamer911/ibutton_decoder/releases/tag/Flipper)
 
 ## 📄 Licenza
 Questo software è rilasciato sotto **Creative Commons Attribuzione-NonCommerciale 4.0 Internazionale (CC BY-NC 4.0)**.  
