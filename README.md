@@ -25,7 +25,7 @@ Per decodificare il credito:
    Esempio: `AA BB CC DD`
 3. Inseriscili nel programma e avvia la decodifica.
 
-Per la conversione inversa:
+Per convertire un credito in byte:
 - Inserisci l'importo in euro e il programma mostrerà i 4 byte corrispondenti.
 
 ## 📥 Download
